@@ -38,7 +38,7 @@ body {
   .instructions-text {
     padding : 15px;
     font-family : ‘Work Sans’;
-    font-size : 30px;
+    font-size : 25px;
     color : #ffffff;
   }
   
@@ -65,4 +65,31 @@ body {
     padding : 10px;
   }
   
-  
+  .score-box {
+    margin : auto;
+    width : 120px;
+    height : 43px;
+    font-family : ‘Work Sans’;
+    background-color : #00ffff;
+    padding-top : 18px;
+    font-size : 18px;
+    text-align : center;
+    color : #010165;
+    margin-bottom : 21px;
+    cursor : pointer;
+
+  }
+
+  .score-row {
+    margin : auto;
+    width : 120px;
+    height : 43px;
+    font-family : ‘Work Sans’;
+    padding-top : 18px;
+    font-size : 30px;
+    text-align : center;
+    color : #ffffff;
+    margin-bottom : 21px;
+    cursor : pointer;
+
+  }
